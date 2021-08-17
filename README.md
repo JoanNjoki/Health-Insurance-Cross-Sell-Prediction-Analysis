@@ -26,9 +26,9 @@
 
 ## Tools Used:
 
-Google Colaboratory Notebook.
-Trello Board.
-Tableau Public for visualizations.
+* Google Colaboratory Notebook.
+* Trello Board.
+* Tableau. 
 
 ## Team Members
 * Joseph Chengecha
