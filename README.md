@@ -2,12 +2,12 @@
 
 ## Main Objective
 
-> Objective to this project is to be able to build and evaluate the performances of different classification algorithms that can help us predict whether or not a client will be interested in vehicle insurance.
+> Objective of this project is to build and evaluate the performances of different classification algorithms that can help us predict whether or not a client will be interested in vehicle insurance.
 
 ## Metric of Success
 
 
-> To be able to build and evaluate the performances of different classification algorithms that can help us predict whether or not a client will be interested in vehicle insurance.
+> To build and evaluate the performances of different classification algorithms that can help us predict whether or not a client will be interested in vehicle insurance.
 
 ## Context
 
